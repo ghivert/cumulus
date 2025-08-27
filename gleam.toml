@@ -5,6 +5,10 @@ target = "javascript"
 description = "Gleam Bindings to browser WebSocket client"
 licences = ["MIT"]
 
+[[links]]
+title = "Sponsor"
+href = "https://github.com/sponsors/ghivert"
+
 [repository]
 type = "github"
 user = "ghivert"
